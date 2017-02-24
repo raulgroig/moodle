@@ -2,7 +2,7 @@
 
 ## Description
 
-Insert a selector in the Boost settings containing a list of courses and categories. It allows the definition of a different preset, color and Raw SCSS to each page on the selector.  
+Insert a selector in the Boost settings containing a list of courses and categories. When a option is selected the page is reloaded with the specific settings of the course or category selected. It will allow the definition of a different preset, color and Raw SCSS to each page on the selector. 
 
 ## Requirements   
 
@@ -14,7 +14,7 @@ This feature will be based on the "Allow course themes" and "Allow category them
 
 The color for courses and categories must be stored in a new variable and do not overwrite the brand-color. This way will be possible to have the navbars and footer styled with the brand-color while the main content will be styled with the course or category color. If the course color is set it will overwrite the category color.
 
-When "Allow course themes" or "Allow category themes" settings were enable the default preset will still be used to the main pages while the courses and categories will use a new preset with specific rules for style the div#page with the new color defined. 
+When "Allow course themes" or "Allow category themes" settings were enable the default preset will still be used to the site home while the courses and categories will use a new preset with specific rules for the new color defined.
 
 This feature can be extended in the future for users page but it can't be done in the Boost settings page. Will be necessary to copy the Boost settings inside the profile page. 
 
