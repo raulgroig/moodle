@@ -2,7 +2,7 @@
 
 ## Description
 
-Insert a selector in the Boost settings containing a list of courses and categories. When a option is selected the page is reloaded with the specific settings of the course or category selected. It will allow the definition of a different preset, color and Raw SCSS to each page on the selector. 
+Insert a selector in the Boost settings containing a list of courses and categories. When an option is selected the page is reloaded with the specific settings of the course or category selected. It will allow the definition of a different preset, color and Raw SCSS to each page on the selector. 
 
 ## Requirements   
 
@@ -40,6 +40,7 @@ An administrator or developer wants to easily define custom settings for styling
 
 ### Links to existing tracker issues, forum discussions, contrib plugins
 
+Moodle Tracker Issue - https://tracker.moodle.org/browse/MDL-58074
 Moodle community discussin -  https://moodle.org/mod/forum/discuss.php?d=346798
 
 ### Requirements
