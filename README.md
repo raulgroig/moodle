@@ -40,8 +40,8 @@ An administrator or developer wants to easily define custom settings for styling
 
 ### Links to existing tracker issues, forum discussions, contrib plugins
 
-Moodle Tracker Issue - https://tracker.moodle.org/browse/MDL-58074
-Moodle community discussin -  https://moodle.org/mod/forum/discuss.php?d=346798
+- Moodle Tracker Issue - https://tracker.moodle.org/browse/MDL-58074  
+- Moodle community discussin -  https://moodle.org/mod/forum/discuss.php?d=346798
 
 ### Requirements
 
