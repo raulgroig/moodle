@@ -14,15 +14,20 @@ This feature will be based on the "Allow course themes" and "Allow category them
 
 The color for courses and categories must be stored in a new variable and do not overwrite the brand-color. This way will be possible to have the navbars and footer styled with the brand-color while the main content will be styled with the course or category color. If the course color is set it will overwrite the category color.
 
-When "Allow course themes" or "Allow category themes" settings were enable the default preset will still be used to the site home while the courses and categories will use a new preset with specific rules for the new color defined.
-
-This feature can be extended in the future for users page but it can't be done in the Boost settings page. Will be necessary to copy the Boost settings inside the profile page. 
+When "Allow course themes" or "Allow category themes" settings were enable the default preset will still be used to the site home while the courses and categories will use a new preset with specific rules for the new color defined. 
 
 Before this new feature be developed it will be possible to add it for any theme.
 
 #### Preview
 
 ![Page selector preview](https://raw.githubusercontent.com/raulgroig/moodle/BOOST_PAGE_SELECTOR/page-selector-preview.png)
+
+#### Future extensions
+
+Once this feature is done some extensions can be added using its new resource as follow:
+- Insert the Boost settings in the course and category settings.
+- Insert a list of allowable Presets for course and category in Themes settings page.
+- Use it for users page inserting the Boost settings inside the profile page.
 
 ### Summary  
 
@@ -41,7 +46,7 @@ An administrator or developer wants to easily define custom settings for styling
 ### Links to existing tracker issues, forum discussions, contrib plugins
 
 - Moodle Tracker Issue - https://tracker.moodle.org/browse/MDL-58074  
-- Moodle community discussin -  https://moodle.org/mod/forum/discuss.php?d=346798
+- Moodle community discussion -  https://moodle.org/mod/forum/discuss.php?d=346798
 
 ### Requirements
 
