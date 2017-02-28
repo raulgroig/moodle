@@ -1,8 +1,8 @@
-# Boost Page Selector
+# Page Selector for Boost Theme
 
 ## Description
 
-Insert a selector in the Boost settings containing a list of courses and categories. When an option is selected the page is reloaded with the specific settings of the course or category selected. It will allow the definition of a different preset, color and Raw SCSS to each page on the selector. 
+Insert a selector in the Boost theme settings containing a list of courses and categories. When an option is selected the page is reloaded with the specific settings of the course or category selected. It will allow the definition of a different preset, color and Raw SCSS to each page on the selector. 
 
 ## Requirements   
 
@@ -17,10 +17,6 @@ The color for courses and categories must be stored in a new variable and do not
 When "Allow course themes" or "Allow category themes" settings were enable the default preset will still be used to the site home while the courses and categories will use a new preset with specific rules for the new color defined. 
 
 Before this new feature be developed it will be possible to add it for any theme.
-
-#### Preview
-
-![Page selector preview](https://raw.githubusercontent.com/raulgroig/moodle/BOOST_PAGE_SELECTOR/page-selector-preview.png)
 
 #### Future extensions
 
@@ -37,7 +33,7 @@ Target users: Administrators, Developers
 
 ### Goals  
 
-The goal for this project is improve the Boost settings by adding the page selector containing a list of courses and categories.  
+The goal for this project is improve the Boost theme settings by adding the page selector containing a list of courses and categories.  
 
 ### Use cases
 
@@ -50,6 +46,10 @@ An administrator or developer wants to easily define custom settings for styling
 
 ### Requirements
 
-Improve the Boost settings including a selector containing a list of courses and categories.  
+Improve the Boost theme settings including a selector containing a list of courses and categories.
+
+#### Preview
+
+![Page selector preview](https://raw.githubusercontent.com/raulgroig/moodle/BOOST_PAGE_SELECTOR/page-selector-preview.png)
 
 ### Further reading 
