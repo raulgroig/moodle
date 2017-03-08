@@ -1,4 +1,4 @@
-# Boost Page Selector
+# Page Selector for Boost Theme
 
 ## Description
 
@@ -18,10 +18,6 @@ When "Allow course themes" or "Allow category themes" settings were enable the d
 
 Before this new feature be developed it will be possible to add it for any theme.
 
-#### Preview
-
-![Page selector preview](https://raw.githubusercontent.com/raulgroig/moodle/BOOST_PAGE_SELECTOR/page-selector-preview.png)
-
 #### Future extensions
 
 Once this feature is done some extensions can be added using its new resource as follow:
@@ -37,7 +33,7 @@ Target users: Administrators, Developers
 
 ### Goals  
 
-The goal for this project is improve the Boost settings by adding the page selector containing a list of courses and categories.  
+The goal for this project is improve the Boost settings by adding the page selector containing a list of courses and categories.
 
 ### Use cases
 
@@ -50,6 +46,10 @@ An administrator or developer wants to easily define custom settings for styling
 
 ### Requirements
 
-Improve the Boost settings including a selector containing a list of courses and categories.  
+Improve the Boost theme settings including a selector containing a list of courses and categories.
+
+#### Preview
+
+![Page selector preview](https://raw.githubusercontent.com/raulgroig/moodle/BOOST_PAGE_SELECTOR/page-selector-preview.png)
 
 ### Further reading 
