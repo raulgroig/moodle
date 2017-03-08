@@ -2,7 +2,7 @@
 
 ## Description
 
-Insert a selector in the Boost settings containing a list of courses and categories. When an option is selected the page is reloaded with the specific settings of the course or category selected. It will allow the definition of a different preset, color and Raw SCSS to each page on the selector. 
+The goal for this project is allow simple style customization for courses and categories. The requirement is to improve the Boost theme settings including a selector containing a list of courses and categories. When an option is selected the page is reloaded with the specific settings of the course or category selected allowing the definition of a different preset, color and Raw SCSS to each selected item.
 
 ## Requirements   
 
